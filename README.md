@@ -12,10 +12,6 @@ save the company from loss.This project is to find out the employees who are goi
 Features of the dataset included all the relative information about the employees working in the organisation.
 For example, their job profile, years completed in the company, their recent managers, total working hours etc.
 
-## Dataset link
-https://drive.google.com/drive/folders/1fmCqKr6DNqy8g3tvlFjMpXPix6f-sLAi
-
-
 ## Feature engineering
 
 Feature engineering was done on features of dataset. These Feature engineering techniques were applied to make the dataset such that Machine Learning algorithms can have a maximum accuracy in predicting the turnover rate. These included dealing with missing and duplicate data, selection of important features, removal of outliers etc.
